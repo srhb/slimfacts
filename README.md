@@ -1,4 +1,5 @@
-Check out default.nix :-)
+Check out default.nix -- we're going to manipulate "host data" from
+`hosts/*.json` with it :-)
 
 Try out:
 ```
