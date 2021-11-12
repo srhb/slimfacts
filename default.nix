@@ -33,6 +33,9 @@ rec {
   # interesting to say, we want to have a discussion more than we care about a
   # solution to the "assignment" itself.  :)
   #
+  # Extra thoughts/talking points: What if we wanted to enforce uniqueness on
+  # some key, eg. no duplicate hostNames?
+  #
   # For context: We have a bunch of hosts and we need to "select" specific
   # hosts using a number of different parameters. In the "real" repo, there's a
   # lot more data than the keys I kept in here.
